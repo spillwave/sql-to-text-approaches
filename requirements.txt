@@ -1,0 +1,30 @@
+# Azure Core
+azure-core>=1.29.5
+azure-identity>=1.15.0
+
+# Azure AI Services
+azure-ai-ml>=1.12.1
+azure-cognitiveservices-language-textanalytics>=0.2.0
+azure-search-documents>=11.4.0
+
+# Azure CosmosDB
+azure-cosmos>=4.5.1
+
+# Utility packages
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# SQL Server dependencies
+pyodbc>=4.0.39
+sqlalchemy>=2.0.23
+
+# SQLite dependencies
+sqlalchemy-utils>=0.41.1
+
+# Data processing
+pandas>=2.1.3
+numpy>=1.26.2
+
+# Data generation
+Faker>=20.1.0
+tqdm>=4.66.1
